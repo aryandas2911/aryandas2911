@@ -1,111 +1,123 @@
-<h1 align="center">Hi 👋, I'm Aryan Das</h1>
+<!-- ===================== HERO SECTION ===================== -->
+<div align="center">
 
-<h3 align="center">
-B.Tech Student · Full-Stack Developer · AI/ML Explorer · GSSoC’25 Contributor
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E57E0,100:1A1A2E&height=140&section=header&text=Aryan%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-I build scalable web applications and applied ML systems.<br/>
-Clean code. Real-world impact. Long-term thinking.
+<h3>Full-Stack Developer · AI/ML Engineer · Open-Source Contributor (GSSoC’25 & OSCG '26)</h3>
+
+<p>
+I build <b>production-ready web systems</b> and <b>applied machine learning pipelines</b>.<br/>
+Backend-first. Data-aware. Built to scale.
 </p>
 
+<a href="https://www.linkedin.com/in/aryan-das-33a4b230a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Das-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/aryandas2911" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-aryandas2911-181717?style=for-the-badge&logo=github"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=aryandas2911&label=Profile%20Views&color=6E57E0&style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 What I Bring to the Table
+
+<ul>
+  <li><b>Full-stack MERN engineering</b> with clean, scalable backend architecture</li>
+  <li><b>End-to-end ML pipelines</b> — data → model → evaluation</li>
+  <li>Focus on <b>maintainability, performance & real-world problem-solving</b></li>
+</ul>
+
+---
+
+## 🧠 Tech Stack & Skills
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-das-33a4b230a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Das-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/aryandas2911" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-aryandas2911-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=aryandas2911&label=Profile%20Views&color=6E57E0&style=for-the-badge"/>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,postgres,python,git,github,postman,docker&theme=light" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 💼 Featured Development Projects
 
-- 🧩 Problem solver who prefers building over tutorials  
-- ⚙️ Full-stack developer with backend-first thinking  
-- 🤖 ML practitioner focused on pipelines, not buzzwords  
-- 🤝 Hackathon finalist & open-source contributor  
+<div align="center">
 
----
+<a href="https://github.com/aryandas2911/WitTrade" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=WitTrade&theme=transparent" width="220" />
+</a>
 
-## 🔥 Current Focus
+<a href="https://github.com/aryandas2911/DailyForge-MERN-Stack" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=DailyForge-MERN-Stack&theme=transparent" width="220" />
+</a>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,python&theme=light" />
-</p>
+<a href="https://github.com/aryandas2911/GradientFlow" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=GradientFlow&theme=transparent" width="220" />
+</a>
 
-- Full-stack MERN applications (auth, APIs, databases)
-- Machine Learning pipelines (EDA → modeling → evaluation)
-- Deep Learning & Generative AI (actively targeting)
-- Open-source contributions (GSSoC-style)
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 🤖 Featured Machine Learning Projects
 
-### 🧑‍💻 Development Projects
+<div align="center">
 
-| WitTrade | DailyForge | Weather App |
-|---------|-----------|-------------|
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=WitTrade&theme=transparent" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=DailyForge-MERN-Stack&theme=transparent" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=Weather-App&theme=transparent" /> |
+<a href="https://github.com/aryandas2911/Water-Potability-Model" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=Water-Potability-Model&theme=transparent" width="220" />
+</a>
 
----
+<a href="https://github.com/aryandas2911/Titanic-Survival-Prediction-Competition-Model" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=Titanic-Survival-Prediction-Competition-Model&theme=transparent" width="220" />
+</a>
 
-### 🤖 Machine Learning Projects
-
-| Taxi Price Prediction | Boston Housing | Water Potability |
-|----------------------|----------------|------------------|
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=Taxi-Price-Prediction-Model&theme=transparent" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=Boston-House-Prices-Model&theme=transparent" /> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandas2911&repo=Water-Potability-Model&theme=transparent" /> |
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,react,nodejs,express,mongodb,mysql,python,git,github,postman&theme=light" />
-</p>
+</div>
 
 ---
 
 ## 🌱 Experience & Open Source
 
-- 🧠 **AI/ML Intern — Acmegrade** (Wipro Collaboration)
-- 🌍 **GSSoC’25 Contributor** — bug fixes, features & documentation
-- 🛠️ Hackathon projects focused on real-world problem solving
+<ul>
+  <li><b>AI/ML Intern — Acmegrade</b> (Wipro Collaboration)</li>
+  <li><b>Contributor — GirlScript Summer of Code 2025 (GSSoC’25)</b></li>
+  <li>Hackathon finalist with a strong problem-solving mindset</li>
+</ul>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Key GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryandas2911&show_icons=true&theme=transparent" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=aryandas2911&theme=transparent" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandas2911&layout=compact&theme=transparent" width="40%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=aryandas2911&show_icons=true&count_private=true&theme=transparent&hide_title=true" width="48%" />
 
----
+<img src="https://streak-stats.demolab.com?user=aryandas2911&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 
-## 📈 Contribution Activity
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryandas2911&theme=github-compact&hide_border=true&area=true"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryandas2911&layout=compact&theme=transparent" width="40%" />
+
+</div>
 
 ---
 
-## 🧾 Profile Summary
+## 📬 Open to Opportunities
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aryandas2911&theme=github"/>
-</p>
+<div align="center">
+
+I'm actively seeking **internships or collaborative projects** in **full-stack development or applied ML**.  
+Reach out via LinkedIn or GitHub!
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
+
+### 💡 Philosophy
 <i>Consistency compounds. Clean systems win.</i>
-</p>
+
+</div>
